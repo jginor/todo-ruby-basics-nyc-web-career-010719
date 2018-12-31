@@ -15,6 +15,7 @@ def greeting(argument1, argument2)
 end
 
 def return_a_value
+  "Nice"
 
 end
 
